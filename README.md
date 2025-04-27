@@ -11,4 +11,4 @@ This project demonstrates how to integrate GitHub authentication into a Node.js 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/3laaElsadany/passport_github.git
+   git clone https://github.com/3laaElsadany/node_passport_github.git
